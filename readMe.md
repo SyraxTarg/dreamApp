@@ -1,5 +1,5 @@
 <!-- # Dream APP
-#### This is a mobile application for dreams. You can basically register your dreams with various parameters and find the historic of your registered dreams in which there will also be api calls to interpret your dream content.
+#### This is a mobile application for dreams. You can basically register your dreams with various parameters and find the historic of your registered dreams in which there will also be api calls to interpret your dream's content.
 
 ## Architecture
 The application architecture utilizes various technologies including [Javascript](https://devdocs.io/javascript/), [Typescript](https://www.typescriptlang.org/fr/docs/), [React Native](https://reactnative.dev/docs/getting-started), [NextJs](https://nextjs.org/docs), [Expo](https://docs.expo.dev/), [React Native Paper](https://callstack.github.io/react-native-paper/), [Meaning Cloud api](https://www.meaningcloud.com/developer/documentation) and [Wikipedia api](https://www.mediawiki.org/wiki/API:Main_page). 
