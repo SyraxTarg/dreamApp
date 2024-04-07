@@ -2,7 +2,7 @@
 This is a mobile application for dreams. You can basically register your dreams with various parameters and find the historic of your registered dreams in which there will also be API calls to interpret your dream's content.
 
 **Reminder**: 
-By the way, the whole app is in french so feel free to modify whatever you want but if you do so please remember to also change the api language to your own.
+By the way, the whole app is in french so feel free to modify whatever you want but if you do so please make sure to also change the api language to your own.
 
 ## Table of contents
 - [Architecture](#architecture)
