@@ -1,6 +1,9 @@
 # Dream APP
 This is a mobile application for dreams. You can basically register your dreams with various parameters and find the historic of your registered dreams in which there will also be API calls to interpret your dream's content.
 
+**Reminder**: 
+By the way, the whole app is in french so feel free to modify whatever you want but if you do so please remember to also change the api language to your own.
+
 ## Table of contents
 - [Architecture](#architecture)
 - [Requirements](#requirements)
@@ -90,7 +93,7 @@ A QR code and various other things will appear.
 ## Implemented functionalities
 This application is a dream logbook. You are supposed to be able to register your dreams and describe them according to various parameters, you are also supposed to be able to see through your historic of dreams and have a minimum informations about your dreams. 
 1. ### Registering your dream
-- - -
+
 ![dreamform](assets/images/dreamForm.png)
 - As mentioned earlier, you can register a dream by filling a form and submitting it.
 - The whole submitting system is encapsulated in the `/components/dreamForm.tsx` component. You can give a title to your dream, a description, memorable elements, persons present in the dream, if it was a lucid dream, if it was a nightmare, and you can also set the date you want by clicking on the "Date" button that will open a modal allowing you to choose a date from a calendar.
