@@ -1,7 +1,6 @@
 import { StyleSheet, TouchableWithoutFeedback, Keyboard, SafeAreaView,
   ScrollView,
   StatusBar, } from 'react-native';
-  import App from '@/components/Notif';
 
 
 import { Text, View } from '@/components/Themed';
