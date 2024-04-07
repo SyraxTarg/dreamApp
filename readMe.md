@@ -26,7 +26,7 @@ By the way, the whole app is in french so feel free to modify whatever you want 
 - [Issues](#issues)
 
 ## Architecture
-The application architecture utilizes various technologies including [Javascript](https://devdocs.io/javascript/), [Typescript](https://www.typescriptlang.org/fr/docs/), [React Native](https://reactnative.dev/docs/getting-started), [NextJs](https://nextjs.org/docs), [Expo](https://docs.expo.dev/), [React Native Paper](https://callstack.github.io/react-native-paper/), [Meaning Cloud API](https://www.meaningcloud.com/developer/documentation), and [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page). 
+The application architecture utilizes various technologies including [Javascript](https://devdocs.io/javascript/), [Typescript](https://www.typescriptlang.org/fr/docs/), [React Native](https://reactnative.dev/docs/getting-started), [Expo](https://docs.expo.dev/), [React Native Paper](https://callstack.github.io/react-native-paper/), [Meaning Cloud API](https://www.meaningcloud.com/developer/documentation), and [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page). 
 
 All the data registered within the app is stored using [AsyncStorage](https://reactnative.dev/docs/asyncstorage). Unlike traditional database systems, AsyncStorage stores data directly on the device, ensuring data persistence. However, it's important to note that the stored data is accessible only on the device where the application is installed and cannot be accessed from other devices. This architecture ensures efficient data management and security while maintaining a lightweight and portable application.
 
